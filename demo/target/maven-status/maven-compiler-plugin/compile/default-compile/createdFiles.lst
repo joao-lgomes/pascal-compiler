@@ -1,0 +1,11 @@
+sintatico\Token.class
+sintatico\Categoria.class
+sintatico\Valor.class
+sintatico\Classe.class
+sintatico\Sintatico.class
+sintatico\TabelaSimbolos.class
+sintatico\Lexico.class
+sintatico\Valor$TipoValor.class
+sintatico\Registro.class
+sintatico\Tipo.class
+sintatico\App.class
